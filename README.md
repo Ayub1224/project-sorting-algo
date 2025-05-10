@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repository-url]
+   git clone git@github.com:Ayub1224/project-sorting-algo.git
    cd project-sorting-algo
    ```
 
